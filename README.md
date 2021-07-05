@@ -5,3 +5,8 @@ Login system with email veryfication and some other basic db functionality
 - **Do not forget to configure _application.context_(src\main\resources) and _SpringConfig_(src/main/java/com.fuser.english)**  
 - All url is secured _except_ (/registration/*)  
 - You can **_change secured url_** in java config security file (package security -> config).
+
+
+# Usage
+For testing functionality use [Postman](https://go.postman.co/build)
+- For user registration: ![image](https://user-images.githubusercontent.com/43929105/124457667-b5354e80-dd94-11eb-9824-fb7218c4e4c2.png)
