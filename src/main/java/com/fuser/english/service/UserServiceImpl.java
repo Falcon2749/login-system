@@ -1,15 +1,13 @@
 package com.fuser.english.service;
 
 import com.fuser.english.entity.User;
-import com.fuser.english.registration.token.ConfirmationToken;
-import com.fuser.english.registration.token.ConfirmationTokenService;
+import com.fuser.english.service.registration.token.ConfirmationToken;
+import com.fuser.english.service.registration.token.ConfirmationTokenService;
 import com.fuser.english.repository.UserRepository;
 import com.google.common.collect.Lists;
-import lombok.AllArgsConstructor;
 import org.springframework.aop.AopInvocationException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
-import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;

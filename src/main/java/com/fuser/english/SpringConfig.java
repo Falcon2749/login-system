@@ -1,15 +1,11 @@
 package com.fuser.english;
 
-import com.fuser.english.registration.RegistrationService;
-import com.fuser.english.security.PasswordEncoder;
 import com.fuser.english.service.UserServiceImpl;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.jdbc.datasource.DriverManagerDataSource;
-import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 import javax.sql.DataSource;
-import java.lang.reflect.ParameterizedType;
 
 @Configuration
 public class SpringConfig {
