@@ -20,9 +20,9 @@ public class SpringConfig {
         DriverManagerDataSource dataSource = new DriverManagerDataSource();
 
         dataSource.setDriverClassName("com.mysql.cj.jdbc.Driver");
-        dataSource.setUsername("admin");
-        dataSource.setPassword("falcon873");
-        dataSource.setUrl("jdbc:mysql://localhost:3306/platform?useUnicode=true&serverTimezone=UTC");
+        dataSource.setUsername("username");
+        dataSource.setPassword("password");
+        dataSource.setUrl("db_link");
 
         return dataSource;
     }
