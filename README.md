@@ -9,4 +9,4 @@ Login system with email veryfication and some other basic db functionality
 
 # Usage
 For testing functionality use [Postman](https://go.postman.co/build)
-- For user registration: ![image](https://user-images.githubusercontent.com/43929105/124457667-b5354e80-dd94-11eb-9824-fb7218c4e4c2.png)
+- Request **for user registration**: ![image](https://user-images.githubusercontent.com/43929105/124457765-d85ffe00-dd94-11eb-83c2-3ed8d8d05250.png)
