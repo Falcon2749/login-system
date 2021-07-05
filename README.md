@@ -9,5 +9,5 @@ Login system with email veryfication and some other basic db functionality
 
 # Usage
 For testing functionality use [Postman](https://go.postman.co/build)
-- Request **for user registration** (returns confirmation token):    ![image](https://user-images.githubusercontent.com/43929105/124457765-d85ffe00-dd94-11eb-83c2-3ed8d8d05250.png)
-- Request **for email confirmation** or use the link in the letter you received in MailDev:    ![image](https://user-images.githubusercontent.com/43929105/124458086-40aedf80-dd95-11eb-81e0-7f019b40d3a2.png)
+- Request **for user registration** (returns confirmation token):   - ![image](https://user-images.githubusercontent.com/43929105/124457765-d85ffe00-dd94-11eb-83c2-3ed8d8d05250.png)
+- Request **for email confirmation** or use the link in the letter you received in MailDev:   - ![image](https://user-images.githubusercontent.com/43929105/124458086-40aedf80-dd95-11eb-81e0-7f019b40d3a2.png)
