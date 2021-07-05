@@ -8,6 +8,7 @@ Login system with email veryfication and some other basic db functionality
 - You can **change confirmation email(html)** in com.fuser.english.service.registration.RegistrationService.java
 
 # Usage
+- If you want to receive an email start MailDev
 For testing functionality use [Postman](https://go.postman.co/build)
 - **POST Request for user registration** (returns confirmation token):   ![image](https://user-images.githubusercontent.com/43929105/124458427-a13e1c80-dd95-11eb-974a-53cdc329581c.png)
 - **GET Request for email confirmation**:   ![image](https://user-images.githubusercontent.com/43929105/124458263-6dfb8d80-dd95-11eb-9848-a53d61da4a60.png)
