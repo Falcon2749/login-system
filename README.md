@@ -1,4 +1,4 @@
-# Login system. Spring Security
+# Form-based login system. Spring Security
 Login system with email veryfication and some other basic db functionality
 
 - **The project uses [MailDev](https://github.com/maildev/maildev)(requires [Node.js](https://nodejs.org/en/)).** Go to the links for setting up.  
